@@ -1,4 +1,4 @@
-package TestCase_Repo;
+ package TestCase_Repo;
 
 public class Test {
 	public  static void  main (String args[]) {
@@ -6,6 +6,7 @@ public class Test {
 		System.out.println(" push test class to git ");	
 		
 		System.out.println("pull test")	;	
+		System.out.println("pull");
 		}
 
 }
