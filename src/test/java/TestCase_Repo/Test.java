@@ -5,7 +5,9 @@ public class Test {
 		
 		System.out.println(" push test class to git ");	
 		
-		System.out.println("pull test")	;	
+		System.out.println("pull test")	;
+		
+	System.out.println("push test");
 		}
 
 }
